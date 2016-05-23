@@ -1,7 +1,7 @@
 ﻿<<<<<<< HEAD
 ﻿1 mirror for tinyhttpd
 =======
-﻿1pullA mirror for tinyhttpd
+﻿1 mirror for tinyhttpd
 >>>>>>> my_pull_request
 测试CGI时需要本机安装PERL，同时安装perl-cgi
 
